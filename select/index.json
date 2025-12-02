@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "HONEY BOY",
+  "base_artist": "TOMOO",
+  "createdAt": "2025-12-02T07:15:41.251580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "The Supremes",
+      "has_synced": true,
+      "path": "select/01_Honey_Boy_The_Supremes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "Diana Ross && The Supremes",
+      "has_synced": true,
+      "path": "select/02_Honey_Boy_Diana_Ross_&&_The_Supremes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "Ekoh",
+      "has_synced": true,
+      "path": "select/03_Honey_Boy_Ekoh.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "Diana Ross & The Supremes",
+      "has_synced": true,
+      "path": "select/04_Honey_Boy_Diana_Ross_&_The_Supremes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honey Boy (Mono)",
+      "artist": "Diana Ross & The Supremes",
+      "has_synced": true,
+      "path": "select/05_Honey_Boy_(Mono)_Diana_Ross_&_The_Supremes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "artist": "Purple Disco Machine",
+      "has_synced": true,
+      "path": "select/06_Honey_Boy_(feat._Nile_Rodgers_&_Shenseea)_Purple_Disco_Machine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "artist": "Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea",
+      "has_synced": true,
+      "path": "select/07_Honey_Boy_(feat._Nile_Rodgers_&_Shenseea)_Purple_Disco_Machine,_Benjamin_Ingrosso,_Nile_Rodgers,_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "Purple Disco Machine, Benjamin Ingrosso, Nile Rodgers, Shenseea",
+      "has_synced": true,
+      "path": "select/08_Honey_Boy_Purple_Disco_Machine,_Benjamin_Ingrosso,_Nile_Rodgers,_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "Purple Disco Machine & Benjamin Ingrosso Feat. NILE RODGERS & Shenseea",
+      "has_synced": true,
+      "path": "select/09_Honey_Boy_Purple_Disco_Machine_&_Benjamin_Ingrosso_Feat._NILE_RODGERS_&_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "Purple Disco Machine",
+      "has_synced": true,
+      "path": "select/10_Honey_Boy_Purple_Disco_Machine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Honey Boy (feat. Nile Rodgers i Shenseea)",
+      "artist": "Purple Disco Machine",
+      "has_synced": true,
+      "path": "select/11_Honey_Boy_(feat._Nile_Rodgers_i_Shenseea)_Purple_Disco_Machine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Honey Boy",
+      "artist": "Ruth Brown",
+      "has_synced": false,
+      "path": "select/12_Honey_Boy_Ruth_Brown.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HONEY BOY",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_HONEY_BOY_TOMOO.txt"
+    }
+  ]
+}
